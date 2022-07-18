@@ -35,16 +35,16 @@ social:
 #    icon_pack: fas
 #    link: 'mailto:test@example.org'
   - icon: desktop
-    link: https://abodner.github.io/
+    link: 'https://abodner.github.io/'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/abigailbodner
+    link: 'https://twitter.com/abigailbodner'
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.com/citations?user=70cT3RgAAAAJ&hl=en&oi=ao
+    link: 'https://scholar.google.com/citations?user=70cT3RgAAAAJ&hl=en&oi=ao'
   - icon: github
     icon_pack: fab
-    link: https://github.com/abodner
+    link: 'https://github.com/abodner'
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
