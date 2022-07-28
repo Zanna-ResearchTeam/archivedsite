@@ -15,7 +15,7 @@ fi
 git pull && git add --all && git commit -m "$msg" && git push --set-upstream origin master;
 
 # Build the project.
-hugo -t hugo-hero-theme # if using a theme, replace with `hugo -t <YOURTHEME>`
+hugo -t starter-hugo-research-group # if using a theme, replace with `hugo -t <YOURTHEME>`
 
 # Go To Public folder
 cd public
